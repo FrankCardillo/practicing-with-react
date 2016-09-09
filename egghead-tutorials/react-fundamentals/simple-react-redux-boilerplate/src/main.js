@@ -6,4 +6,6 @@
 // import MountingBasics from './MountingBasics';
 // import MountingUsage from './MountingUsage';
 // import ComponentLifecycleUpdating from './ComponentLifecycleUpdating';
-import HigherOrderComponents from './HigherOrderComponents';
+// import HigherOrderComponents from './HigherOrderComponents';
+// import ComposableComponent from './ComposableComponent'
+import DynamicallyGeneratedComponent from './DynamicallyGeneratedComponent';
