@@ -3,4 +3,7 @@
 // import Parent from './Parent';
 // import RefParentChild from './RefParentChild';
 // import GetChildProp from './GetChildProp';
-import MountingBasics from './MountingBasics';
+// import MountingBasics from './MountingBasics';
+// import MountingUsage from './MountingUsage';
+// import ComponentLifecycleUpdating from './ComponentLifecycleUpdating';
+import HigherOrderComponents from './HigherOrderComponents';
