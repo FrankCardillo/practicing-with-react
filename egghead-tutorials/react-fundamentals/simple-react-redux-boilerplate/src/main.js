@@ -1,8 +1,6 @@
-import React, { PropTypes } from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-
-ReactDOM.render(
-  <App />,
-  document.getElementById('app')
-)
+// import StatefulComponent from './StatefulComponent';
+// import App from './App';
+// import Parent from './Parent';
+// import RefParentChild from './RefParentChild';
+// import GetChildProp from './GetChildProp';
+import MountingBasics from './MountingBasics';
